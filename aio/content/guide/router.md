@@ -425,7 +425,7 @@ During each navigation, the `Router` emits navigation events through the `Router
     <td>
 
       An [event](api/router/NavigationCancel) triggered when navigation is canceled.
-      This is due to a [Route Guard](#guards) returning false during navigation.
+      This is due to a [Route Guard](#guards) returning <code>false</code> during navigation.
 
     </td>
   </tr>
